@@ -52,7 +52,7 @@ st.subheader("Distancias")
 st.write("🍎 Manzana:", distancia_manzana)
 st.write("🍌 Banano:", distancia_banano)
 st.write("🍊 Naranja:", distancia_naranja)
-st.write("🍊 Naranja:", distancia_uva)
+st.write("🍇 Uva", distancia_uva)
 
 # Buscamos la distancia menor
 distancias = {
